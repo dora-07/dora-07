@@ -36,7 +36,7 @@ I am passionate about Web-Application Security, particularly interested in Offen
 <a href="https://bugcrowd.com/dora007" target="blank"><img align="center" src="icons/bugcrowd-svgrepo-com.svg" alt="bugcrowd" height="60" width="80" /></a>
 <a href="https://hackerone.com/kniloy07" target="blank"><img align="center" src="icons/hackerone-svgrepo-com.svg" alt="hackerone" height="60" width="80" /></a>
 <a href="https://github.com/kniloy07" target="blank"><img align="center" src="icons/icons8-github.svg" alt="github" height="60" width="80" /></a>
-<a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-linkedin.svg" alt="linkedin" height="60" width="80" /></a>
+<a href="https://www.linkedin.com/in/kniloy07/" target="blank"><img align="center" src="icons/icons8-linkedin.svg" alt="linkedin" height="60" width="80" /></a>
 <a href="https://tryhackme.com/p/dora007" target="blank"><img align="center" src="icons/tryhackme.svg" alt="tryhackme" height="60" width="80" /></a>
 <a href="https://www.bugbountyhunter.com/hunter/dora" target="blank"><img align="center" src="icons/icons8-bug-100.png" alt="bbh" height="60" width="60" /></a>
 
