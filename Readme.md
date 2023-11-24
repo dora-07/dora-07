@@ -1,51 +1,49 @@
-<img src="/gif/meme.gif" width="500">
+<p align="center"> <img src="/gif/meme.gif" height="400" width="900"></p>
 <h1 align="center"> 👋Hello , I am Kumar</h1>
 
 
+<p align="center">
 <blockqoute>
-
 I am passionate about Web-Application Security, particularly interested in Offensive Penetration and Vulnerability testing
-
 <blockqoute>
+</p>
 
 ---
 
-<blockqoute>
-I blog and post writeups on ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-<blockqoute>
+- I share posts regarding Web-Applicaton Security on ![Twitter](https://img.shields.io/badge/twitter-green?style=flat&logo=twitter) and ![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=flat&logo=LinkedIn)
+
+- I post writeups on ![Hashnode](https://img.shields.io/badge/hashnode-blue?style=flat&logo=hashnode)
+
+- I play CTFs on ![TryHackMe](https://img.shields.io/badge/tryhackme-red?style=flat&logo=TryHackMe)
+
+- I also enjoy playing FPS games , play with me on ![Steam](https://img.shields.io/badge/Steam-grey?style=flat&logo=steam)
+
+- I do bug bounties at ![Hackerone](https://img.shields.io/badge/Hackerone-green?style=flat&logo=hackerone) and ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-orange?style=flat&logo=bugcrowd) and ![BugBountyHacker](https://img.shields.io/badge/BugBountyHunter-purple?style=flat)
 
 ---
 
+<h2 align="left">Languages and Tools:</h2>
 
 
 
+<h2 align="left">Connect with me:</h2>
+<p align="center">
+
+<a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-twitter.svg" alt="twitter" height="60" width="80" /></a>
+<a href="https://dora.hashnode.dev/" target="blank"><img align="center" src="icons/icons8-hashnode.svg" alt="hashnode" height="60" width="80" /></a>
+<a href="mailto:kniloy.sec@gmail.com" target="blank"><img align="center" src="icons/icons8-gmail.svg" alt="gmail" height="60" width="80" /></a>
+<a href="https://steamcommunity.com/id/kniloy07/" target="blank"><img align="center" src="icons/icons8-steam.svg" alt="steam" height="60" width="80" /></a>
+<a href="https://bugcrowd.com/dora007" target="blank"><img align="center" src="icons/bugcrowd-svgrepo-com.svg" alt="bugcrowd" height="60" width="80" /></a>
+<a href="https://hackerone.com/kniloy07" target="blank"><img align="center" src="icons/hackerone-svgrepo-com.svg" alt="hackerone" height="60" width="80" /></a>
+<a href="https://github.com/kniloy07" target="blank"><img align="center" src="icons/icons8-github.svg" alt="github" height="60" width="80" /></a>
+<a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-linkedin.svg" alt="linkedin" height="60" width="80" /></a>
+<a href="https://tryhackme.com/p/dora007" target="blank"><img align="center" src="icons/tryhackme.svg" alt="tryhackme" height="60" width="80" /></a>
+<a href="https://www.bugbountyhunter.com/hunter/dora" target="blank"><img align="center" src="icons/icons8-bug-100.png" alt="bbh" height="60" width="60" /></a>
 
 
 
+</p>
 
 
 <!-- Snek -->
-<img src="/gif/snek.svg" width="500">
-
-
-<h1 align="center">Hi 👋, I'm Kumar Niloy</h1>
-<h3 align="center">Uptime : 21 Years 4 months</h3>
-<h3 align="center">Passionate about Web-Application Security, particularly interested in Offensive Penetration and Vulnerability testing</h3>
-
-- 🔭 I’m currently working on [OWASP Top 10 Bugs](https://owasp.org/www-project-top-ten/)
-- 📝 I regularly write articles on [https://dora.hashnode.dev/](https://dora.hashnode.dev/)
-- 📫 How to reach me **kniloy.sec@gmail.com**
-- ⚡ Fun fact **Nintendo was founded the same year that Van Gogh painted 'Starry Night'.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarniloy6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kniloy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kniloy07" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kniloy07&show_icons=true&locale=en&layout=compact" alt="kniloy07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kniloy07&show_icons=true&locale=en" alt="kniloy07" /></p>
+<p align="center"><img src="/gif/snek.svg"></p>
