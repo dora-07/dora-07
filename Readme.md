@@ -1,8 +1,8 @@
-<p align="center"> <img src="/gif/meme.gif" height="400" width="900"></p>
-<h1 align="center"> 👋Hello , I am Kumar</h1>
+<p align="left"> <img src="/gif/meme.gif" height="400" width="900"></p>
+<h1 align="left"> 👋Hello , I am Kumar</h1>
 
 
-<p align="center" style="italic">
+<p align="left" style="italic">
   <em> 
     I am passionate about Web-Application Security, particularly interested in Offensive Penetration and Vulnerability testing </p>
   </em>
@@ -21,24 +21,26 @@
 
 <br>
 
-<h1 align="center">Connect with me:</h1>
 <p align="center">
-
-<br>
-<a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-twitter.svg" alt="twitter" height="60" width="80" /></a>
-<a href="https://dora.hashnode.dev/" target="blank"><img align="center" src="icons/icons8-hashnode.svg" alt="hashnode" height="60" width="80" /></a>
-<a href="mailto:kniloy.sec@gmail.com" target="blank"><img align="center" src="icons/icons8-gmail.svg" alt="gmail" height="60" width="80" /></a>
-<a href="https://steamcommunity.com/id/kniloy07/" target="blank"><img align="center" src="icons/icons8-steam.svg" alt="steam" height="60" width="80" /></a>
-<a href="https://bugcrowd.com/dora007" target="blank"><img align="center" src="icons/bugcrowd-svgrepo-com.svg" alt="bugcrowd" height="60" width="80" /></a>
-<a href="https://hackerone.com/kniloy07" target="blank"><img align="center" src="icons/hackerone-svgrepo-com.svg" alt="hackerone" height="60" width="80" /></a>
-<a href="https://github.com/kniloy07" target="blank"><img align="center" src="icons/icons8-github.svg" alt="github" height="60" width="80" /></a>
-<a href="https://www.linkedin.com/in/kniloy07/" target="blank"><img align="center" src="icons/icons8-linkedin.svg" alt="linkedin" height="60" width="80" /></a>
-<a href="https://tryhackme.com/p/dora007" target="blank"><img align="center" src="icons/tryhackme.svg" alt="tryhackme" height="60" width="80" /></a>
-<a href="https://www.bugbountyhunter.com/hunter/dora" target="blank"><img align="center" src="icons/icons8-bug-100.png" alt="bbh" height="60" width="60" /></a>
-
-
+  <p align="left"><img src="/customs/top-final1.jpg"></p>
+  
+  <p align="center"></p>
+    <a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-twitter.svg" alt="twitter" height="60" width="80" /></a>
+    <a href="https://dora.hashnode.dev/" target="blank"><img align="center" src="icons/icons8-hashnode.svg" alt="hashnode" height="60" width="80" /></a>
+    <a href="mailto:kniloy.sec@gmail.com" target="blank"><img align="center" src="icons/icons8-gmail.svg" alt="gmail" height="60" width="80" /></a>
+    <a href="https://steamcommunity.com/id/kniloy07/" target="blank"><img align="center" src="icons/icons8-steam.svg" alt="steam" height="60" width="80" /></a>
+    <a href="https://bugcrowd.com/dora007" target="blank"><img align="center" src="icons/bugcrowd-svgrepo-com.svg" alt="bugcrowd" height="60" width="80" /></a>
+    <a href="https://hackerone.com/kniloy07" target="blank"><img align="center" src="icons/hackerone-svgrepo-com.svg" alt="hackerone" height="60" width="80" /></a>
+    <a href="https://github.com/kniloy07" target="blank"><img align="center" src="icons/icons8-github.svg" alt="github" height="60" width="80" /></a>
+    <a href="https://www.linkedin.com/in/kniloy07/" target="blank"><img align="center" src="icons/icons8-linkedin.svg" alt="linkedin" height="60" width="80" /></a>
+    <a href="https://tryhackme.com/p/dora007" target="blank"><img align="center" src="icons/tryhackme.svg" alt="tryhackme" height="60" width="80" /></a>
+    <a href="https://www.bugbountyhunter.com/hunter/dora" target="blank"><img align="center" src="icons/icons8-bug-100.png" alt="bbh" height="60" width="60" /></a>
+  </p>
+  
+  <p align="left"><img src="/customs/bottom-final.jpg"></p>
+  
+  </p>
 </p>
 
-
 <!-- Snek -->
-<p align="center"><img src="/gif/snek.svg"></p>
+<p align="left"><img src="/gif/snek.svg"></p>
