@@ -23,7 +23,7 @@
 
 <p align="center">
   <p align="left"><img src="/customs/top-final1.jpg"></p>
-  
+
   <p align="center"></p>
     <a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-twitter.svg" alt="twitter" height="60" width="80" /></a>
     <a href="https://dora.hashnode.dev/" target="blank"><img align="center" src="icons/icons8-hashnode.svg" alt="hashnode" height="60" width="80" /></a>
@@ -42,5 +42,6 @@
   </p>
 </p>
 
+<br>
 <!-- Snek -->
 <p align="left"><img src="/gif/snek.svg"></p>
