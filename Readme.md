@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <p align="left"><img src="/customs/top-final1.jpg"></p>
+  <p align="left"><img src="/customs/top-1.jpg"></p>
 
   <p align="center"></p>
     <a href="https://twitter.com/kumarniloy6" target="blank"><img align="center" src="icons/icons8-twitter.svg" alt="twitter" height="60" width="80" /></a>
@@ -37,7 +37,7 @@
     <a href="https://www.bugbountyhunter.com/hunter/dora" target="blank"><img align="center" src="icons/icons8-bug-100.png" alt="bbh" height="60" width="60" /></a>
   </p>
   
-  <p align="left"><img src="/customs/bottom-final.jpg"></p>
+  <p align="left"><img src="/customs/bottom-1.jpg"></p>
   
   </p>
 </p>
